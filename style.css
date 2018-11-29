@@ -1,0 +1,9 @@
+.container {
+    border-style:dotted;
+    border-color:blue;
+    border-width: 0.1em;
+}
+
+div[class*="col-"]{
+    border: solid black 0.1em;
+}
