@@ -7,3 +7,9 @@
 div[class*="col-"]{
     border: solid black 0.1em;
 }
+
+.border-group > .border {
+    width: 1.8em;
+    height: 1.8em;
+    display: inline-block;
+}
